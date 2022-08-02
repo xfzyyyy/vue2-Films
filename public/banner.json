@@ -1,0 +1,14 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "imgurl": "https://p1.meituan.net/movie/81fe2197ef930c79624a28cc76c423835264620.png@1l_1e_1c_400w_200h",
+      "title": "小公主"
+    },
+    {
+      "id": 2,
+      "imgurl": "https://p0.meituan.net/movie/07e0ee6c6f30700e6d4ab6774d95fc4f108727.jpg@1l_1e_1c_400w_200h",
+      "title": "我的初恋"
+    }
+  ]
+}

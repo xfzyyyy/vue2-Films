@@ -1,0 +1,525 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 5984,
+                "name": "侏罗纪世界3",
+                "poster": "https://pic.maizuo.com/usr/movie/5011ee407fb407d47e333a3935ec33d1.jpg",
+                "actors": [
+                    {
+                        "name": "科林·特雷沃罗",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f50e32aaebd649e5cefebbccc2589274.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "克里斯·帕拉特",
+                        "role": "Owen",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/24bda32cf503c197398a6f9180aa2102.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "布莱丝·达拉斯·霍华德",
+                        "role": "Claire",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7054fbfb119a2527485eb583834672bb.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "杰夫·高布伦",
+                        "role": "Ian Malcolm",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dbb75929bcae6c2dd9688aefc9347de0.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "劳拉·邓恩",
+                        "role": "Ellie Sattler",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a38b46a1df20148566170484e0d95096.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "科林·特雷沃罗",
+                "category": "科幻|动作|冒险|惊悚",
+                "synopsis": "影片讲述了自从恐龙进入了人类世界，侏罗纪公园已经不复存在的故事。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1654819200,
+                "timeType": 3,
+                "runtime": 147,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5929,
+                "name": "一周的朋友",
+                "poster": "https://pic.maizuo.com/usr/movie/1b50e316815de10023a9ba9529663ad4.jpg",
+                "actors": [
+                    {
+                        "name": "林孝谦",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f7e41f9f7d2eaf98616afbcb6cb7fe80.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "赵今麦",
+                        "role": "林湘之",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c4abe550d716acec0e3d7e29b12be13b.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "林一",
+                        "role": "徐又树",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4d034983bff541d7f96f2ed2909517b5.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "沈月",
+                        "role": "宋晓楠",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5aff5fb8d56b4caae952af71bb2b3acc.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "汪佳辉",
+                        "role": "蒋吾",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2ac1a99e024ca599301aeb588d0c7e1d.jpg"
+                    }
+                ],
+                "director": "林孝谦",
+                "category": "剧情|青春",
+                "synopsis": "胜华高中的复读班上，新来了一个转学生林湘之（赵今麦饰），她文静聪明却总是孤独一人，不跟其他的同学做朋友。但这样的她却吸引了班上的学渣徐又树（林一饰）的注意。在徐又树不断想跟林湘之做朋友的过程中，他和古灵精怪的宋晓楠（沈月饰）、和高冷学霸蒋吾（汪佳辉饰）发现了林湘之的秘密，原来她患了一种特殊的疾病，她对朋友的记忆只有七天。为了帮助这个孤独的女孩，他们四个人组成了“末日生存”小队不断为她创造惊喜和属于他们的记忆。殊不知，林湘之的疾病背后却有个更悲伤的秘密......影片根据叶月抹茶同名漫画改编。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1656115200,
+                "timeType": 3,
+                "runtime": 106,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5910,
+                "name": "人生大事",
+                "poster": "https://pic.maizuo.com/usr/movie/591f8b2e99b2b015eb56939cd89d208c.jpg",
+                "actors": [
+                    {
+                        "name": "刘江江",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fefb955a30ff59dfdffce208c872a194.jpg"
+                    },
+                    {
+                        "name": "朱一龙",
+                        "role": "莫三妹",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/52ce4957dc2ffbfae2073c572d79ee7b.jpg"
+                    },
+                    {
+                        "name": "杨恩又",
+                        "role": "武小文",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5f9b849d882c15af5c99d0e6a4211050.jpg"
+                    },
+                    {
+                        "name": "王戈",
+                        "role": "王建仁",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/01d8fe08b6e7881c1c9f89713f9d4ec0.jpg"
+                    },
+                    {
+                        "name": "刘陆",
+                        "role": "银白雪",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d56b58b6f4f8139bb529e3670575c0f5.jpg"
+                    }
+                ],
+                "director": "刘江江",
+                "category": "剧情|家庭",
+                "synopsis": "殡葬师莫三妹（朱一龙 饰）在刑满释放不久后的一次出殡中，遇到了孤儿武小文（杨恩又 饰），小文的出现，意外地改变了莫三妹对职业和生活的态度。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1648857600,
+                "timeType": 3,
+                "runtime": 112,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5978,
+                "name": "暗恋·橘生淮南",
+                "poster": "https://pic.maizuo.com/usr/movie/d8419057142d94750cfcbaa69f5fd16b.jpg",
+                "actors": [
+                    {
+                        "name": "黄斌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ab5e6c6d618f6cf004f8be57e4cd7c40.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "张雪迎",
+                        "role": "洛枳",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2f3f46c6c4dfcaced6f26b0c4b5d0577.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "辛云来",
+                        "role": "盛淮南",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d131e61678ef5a283ffab7f471876337.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "伍嘉成",
+                        "role": "张明瑞",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6faf6cfbc43e5d674a0d56927209c37b.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "刘琳",
+                        "role": "洛母",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/378aed70fcd7d70cbd5be7565e05ff9e.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "黄斌",
+                "category": "爱情|青春",
+                "synopsis": "有多少人的青春是从一场暗恋开始的？儿时的一次偶遇，少年时期的默默竞争，大学的意外重逢，洛枳（张雪迎 饰）对盛淮南（辛云来 饰）的漫长暗恋，最终会收获何种结局？影片改编自八月长安振华系列，为电影《最好的我们》续篇。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1654128000,
+                "timeType": 3,
+                "runtime": 102,
+                "grade": "7.2",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5947,
+                "name": "坏蛋联盟",
+                "poster": "https://pic.maizuo.com/usr/movie/594ded98490b61549be7ecb5a9355b79.jpg",
+                "actors": [
+                    {
+                        "name": "彼埃尔·佩里菲尔",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ae3dfe1adfa6ea815060e59755be91de.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "山姆·洛克威尔",
+                        "role": "Mr. Wolf",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/da7a219d957fdf0ba6b930e046a484b3.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "秦昊",
+                        "role": "大坏狼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a4a438c3827ffbd51dc3bb91cda0f6d6.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "奥卡菲娜",
+                        "role": "Ms. Tarantula",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b1271af16d9d6abc03459fbbb34987d1.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "锤娜丽莎",
+                        "role": "美肚鲨",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/60d410811425d713a166b91beae28166.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "彼埃尔·佩里菲尔",
+                "category": "喜剧|动画|动作",
+                "synopsis": "梦工场最新动画喜剧电影《坏蛋联盟》(The Bad Guys)改编自同名畅销漫画，全球出版1600万册。本片由《功夫熊猫》系列电影资深动画师彼埃尔·佩里菲尔执导，《魔发精灵》《宝贝老板》王牌制片人保驾护航。漫画由艾伦·布拉培创作，黑白风格，围绕五个“坏蛋”：大坏狼、美肚鲨、贪心蛇、食人鱼、骇客蛛展开故事，它们是令人闻风丧胆的“坏蛋联盟”，然而它们却决定成为模范公民。它们是真的想改“邪”归“正”吗？",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1651190400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.9",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5983,
+                "name": "天才计划",
+                "poster": "https://pic.maizuo.com/usr/movie/90bb7e985b8f26c28ae9d5d1c29ba8d3.jpg",
+                "actors": [
+                    {
+                        "name": "弗朗西斯·安南",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f59d2a3ea98be2b6a526319387b9e3b4.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "丹尼尔·雷德克里夫",
+                        "role": "Tim Jenkin",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fb973e9cb22dc97f212237809ec61369.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "丹尼尔·韦伯",
+                        "role": "Stephen Lee",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/61db904cd2b1d0875d38f67511741088.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "萨姆·尼尔",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b6558f73a0270a7eee01d6415eefa1f8.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "伊恩·哈特",
+                        "role": "Denis Goldberg",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/25bdcaebe868c138fa0783c0b7bbf3e0.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "弗朗西斯·安南",
+                "category": "悬疑|犯罪|剧情",
+                "synopsis": "机械天才蒂姆·詹金（丹尼尔·雷德克里夫 饰）搭档好兄弟史蒂芬·李（丹尼尔·韦伯 饰）秘密组建越狱行动队，上演了一场令人窒息步步惊心的精巧越狱大秀。面对冷血狱警的无理压迫，看行动队如何摆脱404天牢狱之灾，如何冲破15道自由之门，手握天才之钥密室逃生。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国,英国,南非,澳大利亚",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1654819200,
+                "timeType": 3,
+                "runtime": 106,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5979,
+                "name": "海底小纵队：洞穴大冒险",
+                "poster": "https://pic.maizuo.com/usr/movie/e6ee44927d2e3370dcf251c2627ef6d4.jpg",
+                "actors": [
+                    {
+                        "name": "周沁",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4d1a108c548abf13808e6dcd76ae1600.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "郭盛",
+                        "role": "巴克队长",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/158d1693bdcc9f5b5084d2fbca23324c.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "苏俣",
+                        "role": "呱唧，章教授，小蓝莓",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9c9269d70ae3b887e637e7b08af9bc81.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "方宇",
+                        "role": "皮医生",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/93308cb95c3af299379287f49b727480.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "曹凯",
+                        "role": "谢灵通，小鲈鱼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d41f742618795d8255a07962fd423ff1.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "布莱尔·西蒙斯|周沁",
+                "category": "冒险|动画|喜剧",
+                "synopsis": "海底小纵队的任务是将小章鱼库巴送回到它远在加勒比海的家。但是一场意外的事故将他们困在了尤卡坦半岛的热带雨林中，众人必须通过一个海底的隧道到达加勒比海。一场海底洞穴的潜水大冒险就这样开始了……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1657324800,
+                "timeType": 3,
+                "runtime": 80,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5988,
+                "name": "你是我的春天",
+                "poster": "https://pic.maizuo.com/usr/movie/e2ad7502c83c5119c3d8adeeac214e17.jpg",
+                "actors": [
+                    {
+                        "name": "周楠",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6ae4f020975d7b0a2a7c5eb308a3b42a.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "张弛",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a6d2d077f5cd0bcae99ea9dad6dd7e7e.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "田羽生",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f55601720a78ddee0c8d0e723b9d4750.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "董越",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/df0d31274ab36ec516b51841c205d33b.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "饶晓志",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5ecbfbdd31a84cfc95968e567c5681be.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "周楠|张弛|田羽生|董越|饶晓志",
+                "category": "剧情",
+                "synopsis": "双影帝影后集结，献给每一个努力生活的“你”和“我”。影片由中国电影家协会指导拍摄，陈道明任总监制，黄渤任监制，实力派演员强力加盟演绎人间温情故事。倔强的人为了爱人奔走在空城，讨血汗钱的农民工巧合下驰援武汉，抗疫前线的人们除了顶着高压还要学会告别，后方阵地的社区工作者照顾居民却把风险留给了自己，平时疏于交流的父子也被迫日夜相处。总有一些措手不及的事情发生，但也总有一颗治愈的种子在人们心中生根发芽，这是一部关于春天和希望的电影。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1656633600,
+                "timeType": 3,
+                "runtime": 122,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5987,
+                "name": "焚情",
+                "poster": "https://pic.maizuo.com/usr/movie/204ab5edfa1f57947d88784c59510e54.png",
+                "actors": [
+                    {
+                        "name": "刘伟恒",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3e200c1e667a3b762de47894f7e5b713.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "郑嘉颖",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bfbfff8ca7ac2bedcdc6f9cf0bb9a921.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "陈静",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7b130da7933848aff5fdb5458af655e3.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "朱晨丽",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ad8496f589345205eb0173eb9a8c109.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "罗兰",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8551da07daaffa3ffc2852fa3a12c763.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "刘伟恒",
+                "category": "悬疑|爱情",
+                "synopsis": "《焚情》，一部作为爱情试金石的悬疑爱情电影。原本家庭幸福的医生林远志（郑嘉颖 饰），因一夜“激情”，陷入出轨的恐慌与焦灼，他试图用谎言来掩盖真相，但“第三者”方瑜（陈静 饰）的步步紧逼和疯狂示爱，则让妻子刘靖（朱晨丽 饰）以及整个家庭陷入各种不可知的致命危险中……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆,中国香港",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1655510400,
+                "timeType": 3,
+                "runtime": 87,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5969,
+                "name": "哆啦A梦：大雄的宇宙小战争2021",
+                "poster": "https://pic.maizuo.com/usr/movie/c151962e41cb282f09b7855261841da7.jpg",
+                "actors": [
+                    {
+                        "name": "山口晋",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/70732f61c74c8c6ace4ad76c8e52f145.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "水田山葵",
+                        "role": "Doraemon,",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5d31b9c38343b57d8f3268340894bcb5.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "嘉数由美",
+                        "role": "Shizuka,",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/67642fc2c248a590962e240d92494a99.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "关智一",
+                        "role": "Suneo,",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/22cc7823acd7fe1871b03a7609bcf3be.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "大原惠美",
+                        "role": "Nobita,",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ef839ad3ed6a276f0ebf2e5b75c3d0b7.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "山口晋",
+                "category": "科幻|冒险|动画",
+                "synopsis": "电影讲述大雄意外结识来自匹里卡星、体形小巧的外星人帕比，并在哆啦A梦的帮助下，与大家一起穿越星际，共同守护友情和星球的宇宙冒险故事。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1653696000,
+                "timeType": 3,
+                "runtime": 110,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 44
+    },
+    "msg": "ok"
+}
